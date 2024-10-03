@@ -1,18 +1,18 @@
-,Date,Event,Impact on S&P 500,Remarks,Global Market Impact Score
-0,1929-10-29,Wall Street Crash of 1929,Negative - Major decline,Marked the beginning of the Great Depression.,10.0
-1,1939-09-01,Start of WWII,Negative - Long term decline,Triggered significant economic disruption globally.,10.0
-2,1971-08-15,Nixon Shocks,Negative - Uncertainty led to market volatility,"Decoupling of US dollar from gold, led to currency fluctuation.",8.0
-3,1973-10-19,Oil Crisis,Negative - Led to a stock market crash,Severe global economic downturn caused by oil price spikes.,9.0
-4,1985-09-22,Plaza Accord,Negative - Dollar depreciation,Agreement to depreciate the US dollar against the yen and Deutsche Mark.,6.0
-5,1987-10-19,Black Monday,Negative - Sharp drop,One of the largest one-day market crashes in history.,9.0
-6,1990-08-02,Gulf War,Negative - Market volatility,Caused oil price spikes and economic uncertainty.,7.0
-7,1997-07-02,Asian Financial Crisis,Negative - Reduced confidence in emerging markets,Led to financial upheavals in East and Southeast Asia.,7.0
-8,2000-03-10,Dot-com Bubble Burst,Negative - Major decline in tech stocks,Popped the bubble of excessively valued tech companies.,9.0
-9,2001-03-10,Enron Scandal,Negative - Corporate governance concerns,"Highlighted corporate fraud, affecting stock markets.",6.0
-10,2001-09-11,9/11 Attacks,Negative - Markets closed,Resulted in the longest market shutdown since 1933.,8.0
-11,2002-10-09,Stock Market Downturn 2002,Negative - Broad market decline,Resulted from the burst of the dot-com bubble and various corporate scandals.,5.0
-12,2007-12-01,Subprime Mortgage Crisis,Negative - Triggered global financial crisis,Led to widespread mortgage defaults and financial turmoil.,8.0
-13,2008-09-15,Lehman Brothers Collapse,Negative - Initiated a global financial crisis,One of the key events in the financial crisis of 2007-2008.,10.0
-14,2016-06-23,Brexit,Negative initially then uncertain,UK's decision to leave the EU created market uncertainty.,7.0
-15,2020-03-11,COVID-19 Declared a Pandemic,Negative initially then recovered,Triggered massive volatility and a quick bear market but followed by a strong recovery.,10.0
-16,2022-02-24,Ukraine War,Negative - Increased volatility and inflation concerns,"Has led to significant disruptions in global commodity markets, including energy and grains, influencing global inflation rates and market stability.",7.0
+,Date,Event,Impact on S&P 500,Remarks,Global Market Impact Score,Year
+0,1929-10-29 00:00:00,Wall Street Crash of 1929,Negative - Major decline,Marked the beginning of the Great Depression.,10.0,1929
+1,1939-09-01 00:00:00,Start of WWII,Negative - Long term decline,Triggered significant economic disruption globally.,10.0,1939
+2,1971-08-15 00:00:00,Nixon Shocks,Negative - Uncertainty led to market volatility,"Decoupling of US dollar from gold, led to currency fluctuation.",8.0,1971
+3,1973-10-19 00:00:00,Oil Crisis,Negative - Led to a stock market crash,Severe global economic downturn caused by oil price spikes.,9.0,1973
+4,1985-09-22 00:00:00,Plaza Accord,Negative - Dollar depreciation,Agreement to depreciate the US dollar against the yen and Deutsche Mark.,6.0,1985
+5,1987-10-19 00:00:00,Black Monday,Negative - Sharp drop,One of the largest one-day market crashes in history.,9.0,1987
+6,1990-08-02 00:00:00,Gulf War,Negative - Market volatility,Caused oil price spikes and economic uncertainty.,7.0,1990
+7,1997-07-02 00:00:00,Asian Financial Crisis,Negative - Reduced confidence in emerging markets,Led to financial upheavals in East and Southeast Asia.,7.0,1997
+8,2000-03-10 00:00:00,Dot-com Bubble Burst,Negative - Major decline in tech stocks,Popped the bubble of excessively valued tech companies.,9.0,2000
+9,2001-03-10 00:00:00,Enron Scandal,Negative - Corporate governance concerns,"Highlighted corporate fraud, affecting stock markets.",6.0,2001
+10,2001-09-11 00:00:00,9/11 Attacks,Negative - Markets closed,Resulted in the longest market shutdown since 1933.,8.0,2001
+11,2002-10-09 00:00:00,Stock Market Downturn 2002,Negative - Broad market decline,Resulted from the burst of the dot-com bubble and various corporate scandals.,5.0,2002
+12,2007-12-01 00:00:00,Subprime Mortgage Crisis,Negative - Triggered global financial crisis,Led to widespread mortgage defaults and financial turmoil.,8.0,2007
+13,2008-09-15 00:00:00,Lehman Brothers Collapse,Negative - Initiated a global financial crisis,One of the key events in the financial crisis of 2007-2008.,10.0,2008
+14,2016-06-23 00:00:00,Brexit,Negative initially then uncertain,UK's decision to leave the EU created market uncertainty.,7.0,2016
+15,2020-03-11 00:00:00,COVID-19 Declared a Pandemic,Negative initially then recovered,Triggered massive volatility and a quick bear market but followed by a strong recovery.,10.0,2020
+16,2022-02-24,Ukraine War,Negative - Increased volatility and inflation concerns,"Has led to significant disruptions in global commodity markets, including energy and grains, influencing global inflation rates and market stability.",7.0,2022
