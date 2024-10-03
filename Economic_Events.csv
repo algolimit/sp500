@@ -1,0 +1,17 @@
+Date,Event,Impact on Global Markets,Impact on S&P 500,Remarks,Global Market Impact Score
+1929-10-29,Wall Street Crash of 1929,High,Negative - Major decline,Marked the beginning of the Great Depression.,10.0
+1987-10-19,Black Monday,Critical,Negative - Sharp drop,One of the largest one-day market crashes in history.,9.0
+2001-09-11,9/11 Attacks,High,Negative - Markets closed,Resulted in the longest market shutdown since 1933.,8.0
+2008-09-15,Lehman Brothers Collapse,High,Negative - Initiated a global financial crisis,One of the key events in the financial crisis of 2007-2008.,10.0
+2020-03-11,COVID-19 Declared a Pandemic,High,Negative initially then recovered,Triggered massive volatility and a quick bear market but followed by a strong recovery.,10.0
+1939-09-01,Start of WWII,,Negative - Long term decline,Triggered significant economic disruption globally.,10.0
+1971-08-15,Nixon Shocks,,Negative - Uncertainty led to market volatility,"Decoupling of US dollar from gold, led to currency fluctuation.",8.0
+1997-07-02,Asian Financial Crisis,,Negative - Reduced confidence in emerging markets,Led to financial upheavals in East and Southeast Asia.,7.0
+2000-03-10,Dot-com Bubble Burst,,Negative - Major decline in tech stocks,Popped the bubble of excessively valued tech companies.,9.0
+2001-03-10,Enron Scandal,,Negative - Corporate governance concerns,"Highlighted corporate fraud, affecting stock markets.",6.0
+1973-10-19,Oil Crisis,,Negative - Led to a stock market crash,Severe global economic downturn caused by oil price spikes.,9.0
+1985-09-22,Plaza Accord,,Negative - Dollar depreciation,Agreement to depreciate the US dollar against the yen and Deutsche Mark.,6.0
+1990-08-02,Gulf War,,Negative - Market volatility,Caused oil price spikes and economic uncertainty.,7.0
+2002-10-09,Stock Market Downturn 2002,,Negative - Broad market decline,Resulted from the burst of the dot-com bubble and various corporate scandals.,5.0
+2007-12-01,Subprime Mortgage Crisis,,Negative - Triggered global financial crisis,Led to widespread mortgage defaults and financial turmoil.,8.0
+2016-06-23,Brexit,,Negative initially then uncertain,UK's decision to leave the EU created market uncertainty.,7.0
