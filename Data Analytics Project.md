@@ -32,7 +32,7 @@ De S&P 500-index, een van de meest gevolgde aandelenmarktindicatoren wereldwijd,
 
 Door dit onderzoek willen we de volgende vragen beantwoorden:
 
-1. **Wat is de algehele trend van de S&P 500-index van 1927 tot 2024?** Hierbij richten we ons op de lange-termijn bewegingen om te bepalen hoe de index zich over de decennia heeft ontwikkeld.
+1. **Wat is de algehele trend van de S&P 500-index van 1935 tot 2024?** Hierbij richten we ons op de lange-termijn bewegingen om te bepalen hoe de index zich over de decennia heeft ontwikkeld.
 
 2. **Zijn er specifieke perioden van significante groei of daling geweest?** We zullen periodes zoals de Grote Depressie, de Dot-Com Bubble, de financiële crisis van 2008, en de COVID-19-pandemie onderzoeken om te zien hoe deze gebeurtenissen de index hebben beïnvloed.
 
@@ -53,6 +53,10 @@ De primaire dataset, `sp500.csv`, gebruikt voor dit onderzoek is verzameld van [
 Aanvullende economische datasets zijn verzameld om de invloed van bredere economische factoren op de S&P 500 te analyseren:
 
 - **Real Effective Exchange Rate**: De dataset `Real Effective Exchange Rate.xlsx` is afkomstig van het [World Bank Data Catalog](https://datacatalog.worldbank.org/search/dataset/0037798). Deze bevat maandelijkse gegevens over de effectieve wisselkoersen, wat inzicht biedt in de internationale handelscompetitiviteit van de VS.
+
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD : GDP
+GDP (current US$)
+
 
 - **Unemployment Rate**: De werkloosheidscijfers, een belangrijke indicator voor de economische gezondheid, zijn ook verzameld van de [World Bank](https://datacatalog.worldbank.org/search/dataset/0037798). Deze dataset biedt maandelijkse werkloosheidscijfers, wat helpt bij het beoordelen van de binnenlandse economische omstandigheden.
 
